@@ -13,6 +13,8 @@ namespace GithubTestdrive
             Console.WriteLine("Hello testdrive");
 
             Order order = new Order();
+
+            Customer customer = new Customer();
         }
     }
 }
