@@ -11,5 +11,6 @@ namespace GithubTestdrive.AccEntities
     {
         public int Id { get; set; }
         public string Document { get; set; }
+        public double TotalAmount { get; set; }
     }
 }
